@@ -30,6 +30,9 @@ let firstName="Arash";// String literal
 // console.log(firstName); => Arash
 
 
+const score=18 ;// number literal
+// console.log(score); => 18
+
 
 
 
