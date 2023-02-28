@@ -34,6 +34,12 @@ const score=18 ;// number literal
 // console.log(score); => 18
 
 
+let isselectedItem = true;// booleaen literal
+// console.log(isselectedItem);; => true
+
+
+
+
 
 
 
