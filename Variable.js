@@ -25,16 +25,12 @@
 // primitive==> boolean,Null,Undefined,Number,String,Symbol
 //Object==> Array,Object,function,Date,Regex,......
 
-let firstName="Arash";
+
+let firstName="Arash";// String literal
 // console.log(firstName); => Arash
 
 
 
 
-
-const score=18;
-
-
-console.log(score);
 
 
