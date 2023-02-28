@@ -43,9 +43,7 @@ let userName = null; //null=> no value == nothing
 
 
 
-//Object Type
-
-
+//Object Type:
 
 let user ={
 
@@ -62,3 +60,10 @@ const fname ="firstName";
 
 
 
+// Array 
+let selectedDevice = ["iphone" , "android" , "Desktop"];
+
+
+// console.log(selectedDevice[0]); => iphone
+
+// console.log(selectedDevice.length); => 3
