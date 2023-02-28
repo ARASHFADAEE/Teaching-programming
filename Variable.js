@@ -43,5 +43,22 @@ let userName = null; //null=> no value == nothing
 
 
 
+//Object Type
+
+
+
+let user ={
+
+    firstName:"Arash",
+    age :25,
+    address : "esfahan",
+};
+
+
+const fname ="firstName";
+
+// console.log(user[fname]); => Arash
+
+
 
 
