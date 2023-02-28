@@ -38,6 +38,8 @@ let isselectedItem = true;// booleaen literal
 // console.log(isselectedItem);; => true
 
 
+let userName = null; //null=> no value == nothing
+// console.log(userName); => null
 
 
 
