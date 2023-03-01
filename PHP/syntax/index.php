@@ -1,11 +1,11 @@
 <?php
 
-
+// Print hello world in php
 echo "Hello World";
 
 
-echo 'Hello world';
-?>
 
-<?= 'hello world';
+
+
+?>
 
